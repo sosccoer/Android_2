@@ -24,5 +24,5 @@ fun BoxScreen(){
 
 @Composable
 fun MyBox(modifier: Modifier = Modifier) {
-    
+
 }
